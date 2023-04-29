@@ -16,12 +16,7 @@
 			return 10;
 		}
 		
-		private void test1()
-		{
-			System.out.println("Hello Body");
-		}
 
-	
 
 	}
 
