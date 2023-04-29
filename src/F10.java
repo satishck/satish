@@ -21,7 +21,10 @@
 			System.out.println("Hello Body");
 		}
 
-	
+		private void test2()
+		{
+			System.out.println("Hello baby");
+		}
 
 	}
 
